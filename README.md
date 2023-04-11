@@ -6,7 +6,7 @@
 
 ```bash
 touch ~/.bash_alias
-echo 'alias dm="bash /home/jayce/Desktop/shell_scripts/dm.sh"' >> ~/.bash_alias
+echo 'alias dm="bash /path/to/your/dm.sh"' >> ~/.bash_alias
 source ~/.bash_alias
 ```
 
