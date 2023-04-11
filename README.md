@@ -33,3 +33,4 @@ $ tree
 开始愉快的玩耍吧!!
 
 > package.json 中的脚本依赖 scss 和 typescript ,确保全局安装了哦
+> 如何使用？ live-server 监听 dist/index  然后npm run watch 就可以了
